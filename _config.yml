@@ -11,10 +11,10 @@ baseurl: /
 # Website info
 title: Naren Sundar
 description: The professional publishing platform
-cover: assets/images/Cover.png
-logo: assets/images/nslogo.png
-logo_dark: assets/images/naren sundar.png
-favicon: assets/images/favicon.png
+cover: assets/images/blog-cover.png
+logo: 
+logo_dark: 
+favicon: 
 CNAME: #add cname for website to be created
 
 # Social info
